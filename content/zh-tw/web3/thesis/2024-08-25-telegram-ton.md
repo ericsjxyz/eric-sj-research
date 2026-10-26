@@ -18,12 +18,9 @@ source: "Binance Square"
 source_url: "https://www.binance.com/zh-CN/square/post/12628780745001"
 cover: "/images/covers/2024-08-25-telegram-ton-cover-placeholder.png"
 seo_geo_status: "处理失败"
-summary: "Layer2的核心矛盾取決於敘事、用戶需求與價值捕獲能否形成長期閉環，而不是單一敘事或短期熱度。"
-description: "圍繞Layer2，文章從邏輯拆解角度梳理其核心邏輯，重點觀察敘事、用戶需求與價值捕獲如何影響長期閉環、市場定價與後續發展空間。"
-key_points:
-  - "Layer2背後的核心問題是敘事如何轉化為用戶行為和真實價值捕獲。"
-  - "文章關注機制、分發方式和市場心理之間的相互影響。"
-  - "短期現象需要放在週期、流動性和平臺策略中重新理解。"
+summary: "Telegram創始人被捕引發TON恐慌，但指控針對Telegram而非TON，二者運營相對獨立；事件更直接影響市場情緒，而非短期基本面。"
+description: "文章分析Telegram創始人被捕對TON的影響，區分Telegram平臺與TON網絡的關係，並結合TON價格結構、Binance Launchpool和Super Earn活動判斷事件衝擊。"
+key_points: []
 seo_keywords:
   - "Layer2"
   - "BTC"
@@ -34,11 +31,7 @@ seo_keywords:
   - "創始人被捕"
   - "盤面恐慌情緒蔓延"
 tags: []
-faq:
-  - question: "Layer2為什麼值得關注？"
-    answer: "因為文章認為Layer2涉及邏輯拆解中的關鍵變量，能夠反映需求、機制與市場定價的變化。"
-  - question: "判斷Layer2時最重要的因素是什麼？"
-    answer: "重點不是單一價格或熱點，而是結構變化、真實使用、生態協同和價值捕獲能否持續。"
+faq: []
 
 ---
 

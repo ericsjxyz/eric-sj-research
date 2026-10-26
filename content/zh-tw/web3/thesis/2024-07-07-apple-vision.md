@@ -18,12 +18,9 @@ source: "Binance Square"
 source_url: "https://www.binance.com/zh-CN/square/post/10473913543633"
 cover: "/images/covers/2024-07-07-apple-vision-cover-placeholder.png"
 seo_geo_status: "处理失败"
-summary: "通證經濟的核心矛盾取決於敘事、用戶需求與價值捕獲能否形成長期閉環，而不是單一敘事或短期熱度。"
-description: "圍繞通證經濟，文章從邏輯拆解角度梳理其核心邏輯，重點觀察敘事、用戶需求與價值捕獲如何影響長期閉環、市場定價與後續發展空間。"
-key_points:
-  - "通證經濟背後的核心問題是敘事如何轉化為用戶行為和真實價值捕獲。"
-  - "文章關注機制、分發方式和市場心理之間的相互影響。"
-  - "短期現象需要放在週期、流動性和平臺策略中重新理解。"
+summary: "Apple Vision推動MR交互進入大眾視野，Web3項目可從B端視角升級和C端應用切入，但規模化仍依賴硬件普及、生態資源與現實場景合規。"
+description: "文章解釋MR與VR、AR的差別，討論Apple Vision背景下Web3遊戲和教育項目的B端、C端應用路徑，並分析通證設計、硬件依賴和現實交互風險。"
+key_points: []
 seo_keywords:
   - "Web3"
   - "AI"
@@ -34,11 +31,7 @@ seo_keywords:
   - "硬件設施革新背景"
   - "用戶的多元交互視"
 tags: []
-faq:
-  - question: "通證經濟為什麼值得關注？"
-    answer: "因為文章認為通證經濟涉及邏輯拆解中的關鍵變量，能夠反映需求、機制與市場定價的變化。"
-  - question: "判斷通證經濟時最重要的因素是什麼？"
-    answer: "重點不是單一價格或熱點，而是結構變化、真實使用、生態協同和價值捕獲能否持續。"
+faq: []
 
 ---
 
